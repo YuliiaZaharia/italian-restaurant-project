@@ -32,3 +32,16 @@ body {
     padding: 20px;
 }
 
+#btn {
+    align-self: center;
+    background-color: #930b0c;
+    border: none;
+    color: #fff;
+    padding: 35px;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 20%;
+    font-family: 'Klee One', cursive;
+}
+
