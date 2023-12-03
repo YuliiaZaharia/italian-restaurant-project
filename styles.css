@@ -2,5 +2,33 @@ body {
     background-image: url(/5.jpeg);
     background-repeat: no-repeat;
     background-size: cover; 
-    margin: 0;
 }
+
+#container {
+    height: 12vh;
+    flex: 1;
+    margin: 5px;
+    background-color: black;
+}
+
+#menu {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Klee One', cursive;
+}
+
+#links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    font-family: 'Klee One', cursive;
+    height: 100%;
+}
+
+#link {
+    color: #fff;
+    padding: 20px;
+}
+
